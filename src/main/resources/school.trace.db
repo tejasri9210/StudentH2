@@ -1,0 +1,6 @@
+2023-03-15 10:05:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+INSERT INTO book(studentName,gender,standard) VALUES(?,?,?) [42102-214]
+2023-03-15 10:05:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+INSERT INTO book(studentName,gender,standard) VALUES(?,?,?) [42102-214]
